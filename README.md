@@ -5,9 +5,11 @@ This model combines two main components: **CNN (Convolutional Neural Network)** 
 - CNN: Handles local features in the input sequence.
 - LSTM: Manages long-term dependencies and context within the data sequence.
 
+![image](https://github.com/user-attachments/assets/238bc084-16cc-46bc-8fcd-8d74eda66b6a)
+
 
 <p align="center">
-  <img src="[https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://github.com/user-attachments/assets/cf441d4e-2640-4d37-aa35-6942c4b3e6f7)" width="200"/>
+  <img src="https://github.com/user-attachments/assets/238bc084-16cc-46bc-8fcd-8d74eda66b6a" width="200"/>
 </p>
 <p align="center">Fig. Hybrid CNN-LSTM structure</p>
 
