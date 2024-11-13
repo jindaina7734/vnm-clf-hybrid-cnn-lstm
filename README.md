@@ -7,7 +7,7 @@ This model combines two main components: **CNN (Convolutional Neural Network)** 
 
 
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="200"/>
+  <img src="[https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://github.com/user-attachments/assets/cf441d4e-2640-4d37-aa35-6942c4b3e6f7)" width="200"/>
 </p>
 <p align="center">Fig. Hybrid CNN-LSTM structure</p>
 
