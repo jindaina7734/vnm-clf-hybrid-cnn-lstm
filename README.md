@@ -1,9 +1,9 @@
 # 🧠 Hybrid CNN-LSTM for Vietnamese News Classification
 
-\<p align="center"\>
-\<img src="[https://github.com/user-attachments/assets/238bc084-16cc-46bc-8fcd-8d74eda66b6a](https://github.com/user-attachments/assets/238bc084-16cc-46bc-8fcd-8d74eda66b6a)" width="700"/\>
-\</p\>
-\<p align="center"\>\<i\>Fig. Hybrid CNN-LSTM Architecture Pipeline\</i\>\</p\>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/238bc084-16cc-46bc-8fcd-8d74eda66b6a" width="700"/>
+</p>
+<p align="center"><i>Fig. Hybrid CNN-LSTM Architecture Pipeline</i></p>
 
 ## 📌 Architecture Overview
 
