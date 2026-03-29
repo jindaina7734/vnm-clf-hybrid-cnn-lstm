@@ -1,18 +1,18 @@
-# 🧠 Hybrid CNN-LSTM for Vietnamese News Classification
+# Hybrid CNN-LSTM for Vietnamese News Classification
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/238bc084-16cc-46bc-8fcd-8d74eda66b6a" width="700"/>
 </p>
 <p align="center"><i>Fig. Hybrid CNN-LSTM Architecture Pipeline</i></p>
 
-## 📌 Architecture Overview
+## Architecture Overview
 
 This project implements a robust **Hybrid CNN-LSTM network** designed for text classification. By synergizing Convolutional Neural Networks (CNN) with Long Short-Term Memory (LSTM) networks, the model effectively captures both local semantic structures and long-term contextual dependencies within text sequences.
 
   * **CNN (Feature Extractor):** Acts as an n-gram detector to identify prominent local phrases and syntactic patterns.
   * **LSTM (Context Analyzer):** Processes the spatial features extracted by the CNN to understand the temporal sequence and global context of the document.
 
-## ⚙️ Model Pipeline & Data Flow
+## Model Pipeline & Data Flow
 
 1.  **Word Embedding:** Input text sequences (token indices) are mapped into dense vector representations using an Embedding layer.
 2.  **Local Feature Extraction (1D Convolution):** The embedded vectors are permuted and passed through a `Conv1d` layer. This acts as a sliding window over the text, capturing critical local bi-grams or tri-grams regardless of their position in the sentence. A ReLU activation is applied to introduce non-linearity.
